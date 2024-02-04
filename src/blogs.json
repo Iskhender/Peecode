@@ -1,0 +1,56 @@
+[
+  {
+    "id":1,
+    "Badge1":"Partner material",
+    "Badge2":"QA",
+    "Badge3":"UX/UI",
+    "img":"https://res.cloudinary.com/dnox1ijcx/image/upload/v1706556422/Rectangle_228_ifokns.png",
+    "Title":"The truth about ReactJS",
+    "Text":"Sigh, it`s like we can`t catch a break. So much has happened over the past......."
+  },
+  {
+    "id":2,
+    "Badge1":"Partner material",
+    "Badge2":"QA",
+    "Badge3":"UX/UI",
+    "img":"https://res.cloudinary.com/dnox1ijcx/image/upload/v1706556479/Rectangle_228_1_nqft5e.png",
+    "Title":"Gaffer. Case Study",
+    "Text":"Sigh, it`s like we can`t catch a break. So much has happened over the past......."
+  },
+  {
+    "id":3,
+    "Badge1":"Management",
+    "Badge2":"Mobile",
+    "Badge3":"Web",
+    "img":"https://res.cloudinary.com/dnox1ijcx/image/upload/v1706556518/Rectangle_228_2_lbclxl.png",
+    "Title":"How to solve an unsolvable",
+    "Text":"Sigh, it`s like we can`t catch a break. So m....."
+  },
+  {
+    "id":4,
+    "Badge1":"Mobile",
+    "Badge2":"Web",
+    "Badge3":null,
+    "img":"https://res.cloudinary.com/dnox1ijcx/image/upload/v1706556554/Rectangle_228_3_tomzbx.png",
+    "Title":"The truth about ReactJS",
+    "Text":"Sigh, it`s like we can`t catch a break. So much has happened over the past......."
+  },
+  {
+    "id":5,
+    "Badge1":"UX/UI",
+    "Badge2":"Mobile",
+    "Badge3":"Web",
+    "img":"https://res.cloudinary.com/dnox1ijcx/image/upload/v1706556594/Rectangle_228_4_bx0gho.png",
+    "Title":"Gaffer. Case Study",
+    "Text":"Sigh, it`s like we can`t catch a break. So much has happened over the past......."
+  },
+  {
+    "id":6,
+    "Badge1":"Partner material",
+    "Badge2":"QA",
+    "Badge3":"UX/UI",
+    "img":"https://res.cloudinary.com/dnox1ijcx/image/upload/v1706556662/Rectangle_228_5_yoktni.png",
+    "Title":"How to solve an unsolvable",
+    "Text":"Sigh, it`s like we can`t catch a break. So m...."
+  }
+]
